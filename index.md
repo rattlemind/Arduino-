@@ -1,2 +1,0 @@
-Arduino Getting Started Steps
-
